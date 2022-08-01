@@ -1,4 +1,3 @@
-
 # Introduction to Variables: Variable Assignment - Lab
 
 ## Introduction
@@ -7,7 +6,9 @@ Now that we know about variables, we want to put them to use by associating them
 Just as before, we ask you to run the code and ensure that it matches what is commented out.
 
 ## Objectives
+
 You will be able to:
+
 * Assign and declare a python variable
 
 ## Assigning variables
